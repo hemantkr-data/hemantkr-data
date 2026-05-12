@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Hemant Kumar
 
-<!--
-**hemantkr-data/hemantkr-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🔹 SQL | Python | Power BI | Excel  
+🔹 Machine Learning Enthusiast  
+🔹 Turning Data into Actionable Insights  
+🔹 Customer Churn Analysis Project Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/hemant-kumar-23b1bb330
+- GitHub: https://github.com/hemantkr-data
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- SQL Server
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+# 📊 GitHub Stats
+
+![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemantkr-data&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hemantkr-data&theme=tokyonight)
+
+---
+
+# 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkr-data&layout=compact&theme=tokyonight)
+
+---
+
+# 🚀 Featured Project
+
+## Customer Churn Analysis & Prediction
+
+📌 End-to-End Data Analytics Project using:
+
+- SQL Server
+- Python
+- Machine Learning
+- Power BI Dashboard
+
+🔗 Project Link:
+https://github.com/hemantkr-data/Customer-Churn-Analysis-and-Prediction
